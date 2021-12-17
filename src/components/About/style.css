@@ -1,0 +1,79 @@
+.Componentabout {
+  width: 100%;
+}
+
+.Componentabout img {
+  width: 100%;
+  height: 400px;
+}
+.Componentabout h3 {
+  margin-top: 20px;
+  text-align: center;
+  color: #14148d;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.aboutinfo {
+  display: flex;
+  padding: 0 5%;
+  color: #4e4e4e;
+  font-size: 15px;
+}
+
+.aboutinfo img {
+  width: 50%;
+  height: 100%;
+  margin-left: 15%;
+}
+.aboutinfo p {
+  width: 50%;
+  color: #4e4e4e;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 22px;
+}
+.containersbio {
+  padding: 0 5%;
+  color: #4e4e4e;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+@media only screen and (max-width: 720px) {
+  .Componentabout {
+    margin: auto;
+    padding: auto;
+    flex-direction: column;
+  }
+
+  .Componentabout img {
+    margin: auto;
+    height: 250px;
+  }
+  .aboutinfo {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .aboutinfo p {
+    width: 100%;
+  }
+  .aboutinfo img {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+  }
+}
+@media only screen and (max-width: 720px) {
+  .containersbio {
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+}

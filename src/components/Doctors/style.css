@@ -1,0 +1,138 @@
+.doctors {
+  position: relative;
+}
+
+.doctors img {
+  padding: 2.5%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2.5%;
+  width: 95%;
+  height: 300px;
+}
+
+.doctors-info {
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.doctors-info h3 {
+  font-size: 25px;
+  color: green;
+  font-weight: 500;
+  margin: 0;
+  border-top: solid 1px red;
+}
+
+.details-dr {
+  display: flex;
+  flex-direction: column;
+}
+
+.doctors-info h5 {
+  color: #af1212;
+  margin: 5px;
+}
+.doctors-info p {
+  width: 80%;
+  color: #6c6c6c;
+  font-size: 18px;
+  line-height: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.doctors-info samp {
+  justify-content: space-between;
+  font-size: 18px;
+  line-height: 18px;
+  color: #237d9e;
+}
+
+.dr-img {
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-width: 720px) {
+  .doctorsimg img {
+    height: 100px;
+    width: auto;
+    margin: auto;
+    padding: auto;
+  }
+
+  .details-dr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .details-dr h3 {
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    line-height: 29px;
+  }
+  .details-dr h5 {
+    align-items: center;
+    justify-content: center;
+    font-size: 23px;
+    line-height: 25px;
+  }
+  .details-dr samp {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .details-dr p {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: #6c6c6c;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+  }
+
+  .doctors-info {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .doctors-info img {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .dr-img {
+    margin: 0;
+    width: 600px;
+    height: 500px;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  .dr-img-top {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .dr-img-top img {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 300px;
+    margin: auto;
+  }
+}

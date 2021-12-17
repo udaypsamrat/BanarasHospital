@@ -1,0 +1,37 @@
+.b-a {
+  position: relative;
+}
+
+.ba-wrapper {
+  display: flex;
+  padding: 20px;
+}
+
+.ba-left {
+  flex: 1;
+}
+
+.photo {
+  width: 90%;
+}
+
+.ba-right {
+  padding: 2%;
+  flex: 1;
+  width: 98%;
+}
+.ba-right p {
+  width: 98%;
+}
+
+.ba-info {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 1180px) {
+  .ba-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+}

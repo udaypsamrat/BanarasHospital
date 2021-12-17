@@ -1,0 +1,57 @@
+.hteam {
+  position: relative;
+}
+.ht-wrapper {
+  display: flex;
+  margin-top: 2%;
+
+  padding: 20px;
+}
+.ht-left {
+  flex: 1;
+}
+
+.ht-right {
+  flex: 1;
+}
+
+.ht-right p {
+  width: 100%;
+  padding: 3%;
+}
+.hteam h4 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: green;
+  font-size: 25px;
+}
+
+.hteam h5 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  color: red;
+}
+
+.picture {
+  width: 95%;
+}
+.ht-right samp {
+  padding: 5%;
+  font-size: 20px;
+  color: brown;
+}
+
+.ht-right p {
+  width: 100%;
+  font-size: 18px;
+}
+
+@media (max-width: 1180px) {
+  .ht-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+}

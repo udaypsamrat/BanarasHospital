@@ -1,0 +1,51 @@
+.h {
+  position: relative;
+}
+
+.h-wrapper {
+  padding: 20px;
+  display: flex;
+}
+
+.h-left {
+  flex: 1;
+}
+
+.h-left h3 {
+  font-size: 22px;
+  justify-content: center;
+  align-items: center;
+  color: #ff2f74;
+}
+.h-desc {
+  width: 98%;
+  font-size: 20px;
+}
+
+.h-right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.picture {
+  width: 95%;
+  height: 100%;
+}
+
+@media (max-width: 1180px) {
+  .h-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  .picture {
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}

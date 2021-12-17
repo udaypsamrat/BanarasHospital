@@ -1,0 +1,92 @@
+.b-h {
+  position: relative;
+  display: flex;
+  padding: 20px;
+}
+.bh-left {
+  flex: 1;
+}
+
+.bh-left samp {
+  font-size: 20px;
+  color: green;
+}
+
+.bh-left h4 {
+  font-size: 20px;
+  color: green;
+}
+
+.bh-left p {
+  font-size: 18px;
+}
+
+.bh-info {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 18px;
+}
+
+.bh-right {
+  flex: 1;
+}
+
+.bh-right img {
+  width: 95%;
+}
+
+.bodybio {
+  width: 90%;
+  padding: 0 5%;
+  margin: 0;
+}
+.whybio {
+  font-size: 17px;
+  color: #6c6c6c;
+}
+.bodybio p {
+  width: 100%;
+}
+
+.photohealth {
+  width: 50%;
+  margin-right: 15px;
+}
+
+.photohealth img {
+  width: 560px;
+  height: 480px;
+}
+
+.bodyintro {
+  display: flex;
+  width: 100%;
+  padding: 0;
+  font-size: 15px;
+  color: #6c6c6c;
+}
+
+.bodyinfo {
+  display: flex;
+  width: 100%;
+  padding: 0;
+  font-size: 15px;
+  color: #6c6c6c;
+}
+.dbio1 {
+  flex-direction: column;
+  margin: 0;
+  width: 50%;
+}
+
+.dbio1 h4 {
+  color: rebeccapurple;
+  margin: 0;
+}
+
+@media (max-width: 1180px) {
+  .b-h {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}

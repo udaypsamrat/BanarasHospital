@@ -1,0 +1,144 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "doctorsCategory": "Gastroenterology (Liver & Stomach)",
+            "doctorsName" : "Dr. P. k. Tiwari",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "July 21, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "../../assets/image/dr.pk.tiwari.jpg",
+            "description": "Dr. P k tiwari completed his MBBS from GSVM Medical College Kanpur (CSJM University) in 2010 (Batch Para Y1). He completed his MD Medicine from King George Medical University (MLNMC, Allahabad) in 2013. After completing his MD degree he has worked in Department of Gastroenterology as Senior Resident, MLN Medical College, Allahabad under expert guidance." 
+          },
+        {
+            "id" : 2,
+            "doctorsCategory": "Ultrasound",
+            "doctorsName": "Dr. Jyoti Sharma",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "May 03, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "././assets/image/dr.jyoti.png",
+            "description": "Dr. Jyoti Sharma has completed his MBBS from most prestigious Medical University of India King George Medical University, Lucknow. After MBBS he did his MD in Neuro Psychiatry from IMS BHU. He is trained in treatment all kind of mental, behavior, psychological and sexual disorders."
+        },
+        {
+            "id": 3,
+            "doctorsCategory": "Paediatric Medicine (Child Specialty)",
+            "doctorsName": "Dr. P. K. sharma",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Apr 02, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "../../drpksharma.jpg",
+            "description": "Dr P K sharma has completed his MBBS from King George Medical University (KGMU), Lucknow in 2009. He did his DCH from KGMU, Lucknow in 2014. He then completed his DNB Pediatrics form Chacha Neharu Bal Chikitsalay (CNBC), New Delhi. He has worked as Senior Resident in various Government Hospital in New Delhi. He worked as attending consultant in Fortis Hospital, Shalimar Bagh, New Delhi. Dr Raj Gaurav Singh has around 7 years of experience in Pediatrics. During his training at prestigious government institutions he has gained experience in managing various pediatrics and neonatal conditions."
+        },
+        {
+            "id": 4,
+            "doctorsCategory": " General Medicine",
+            "doctorsName": "Dr. U khushwha",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Jan 02, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "dr.uk.png",
+            "description":  "Dr U khushwha has done his MBBS from SNMC Agra and MD (Internal Medicine) from LLRM Medical College, Meerut. After completing his Post Graduation he worked in Department of Medicine at ESIC Hospital & Post Graduate Institute, Basaidarapur, New Delhi. He is well known for his clinical skills & evidence based practice of medicine. He has done fellowship in Non-Invasive Cardiology (18 Months) from G.B. Pant Institute of Post Graduate Medical Education & Research, New Delhi & well trained in performing Non-Invasive Cardiology procedures – 2D Echo Cardiography, TMT, Holter Monitoring. Special Interest in – Diabetes / Hypertension / Lipid disorders / Thyroid disorders/ Infectious diseases. Interest in Cardiology Field- Heart failure / Cardiomyopathies/ Chronic stable angina, Arrythmias cardiac emergencies."
+        },
+        {
+            "id": 5,
+            "doctorsCategory": "Plastic Surgery & Burn",
+            "doctorsName": "Dr. Satyam maurya",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Feb 21, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "dr.satyam.png",
+            "description":  "Dr. Satyam maurya after doing his MBBS from GSVM Medical College, Kanpur pursued his masters from Gen Surgery (MS) from S. N. Medical College Agra. He did doing MCh. Plastic Surgery from Delhi University, Safadarjung Hospital which has the biggest unit of plastic surgery in terms of work, and numbers of Bed. He worked at Safadarjung hospital from 1996-2002. He is also Programme Director for Smile train (U.S.A.) Project, children born with cleft lip and palate are operated free of cost in this project. About 13,000 cases of cleft patients have been operated free of cost at Heritage Hospitals up till now. He is also pioneer in the field of Cosmetic Surgery in the city of Varanasi."
+        },
+
+        {
+            "id": 6,
+            "doctorsCategory": "Nephrology (Kidney)",
+            "doctorsName": "Dr. Nitu ",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Feb 21, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "dr.nitu.jpg",
+            "description":  "Dr. Nitu is a senior Nephrologist of repute of the city, commanding lot of respect from his patients and having 15 years of successful service record in this hospital. Dr. Sinha is a Medical Graduate - MBBS from Darbhanga Medical College, MD (Medicine) KGMC Lucknow and DM, Nephrology, IMS, B.H.U. His association with this Hospital has been remarkable for the development of Nephro and Dialysis Services."
+        },
+
+        {
+            "id": 7,
+            "doctorsCategory": "Cardiology (Heart)",
+            "doctorsName": "Dr. P k maurya",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Feb 21, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "dr.pk.jpg",
+            "description":  "Dr P k maurya completed his MBBS from NRS Medical College and MD Medicine from prestigious Calcutta Medical College. After completing MD, he joined the same Institute as Senior Resident in Cardiology for one year. He completed his DM Cardiology course from Calcutta Medical College under supervision of Prof Santanu Guha in 2016. After completing his DM course, he worked at Desun Hospital and Heart Institute as Associate Consultant where he learned a great deal about Radial Interventions. "
+        },
+
+        {
+            "id": 8,
+            "doctorsCategory": "Neuro Medicine (Brain & Spine)",
+            "doctorsName": "Dr. Priyanka ",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM ",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Feb 21, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "dr.priyanka.jpg",
+            "description":  " Dr. Priyanka did MBBS from RIMS (Rajendra Institute of Medical Sciences), Ranchi, MD (Medicine) from GSVM Medical College, Kanpur and DM (Neurology) from Institute of Medical Sciences, BHU. His special areas of interest are Neuro-critical care, Headache, Epilepsy and Movement disorders. He is a member of various National and International Societies, like IAN, AAN and ISA. He is working as a consultant Neurologist in Heritage Hospitals, Lanka, Varanasi since 1997."
+        },
+
+        {
+            "id": 9,
+            "doctorsCategory": "General & Laparoscopic Surgery",
+            "doctorsName": "Dr. Pradeep kumar",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Feb 21, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "dr.pradeep.jpg",
+            "description":  " Dr. Pradeep kumar did MBBS from RIMS (Rajendra Institute of Medical Sciences), Ranchi, MD (Medicine) from GSVM Medical College, Kanpur and DM (Neurology) from Institute of Medical Sciences, BHU. His special areas of interest are Neuro-critical care, Headache, Epilepsy and Movement disorders. He is a member of various National and International Societies, like IAN, AAN and ISA. He is working as a consultant Neurologist in Heritage Hospitals, Lanka, Varanasi since 1997."
+        },
+
+        {
+            "id": 10,
+            "doctorsCategory": "Chest & Respiratory Medicine (Lungs)",
+            "doctorsName": "Dr. Lancy",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Feb 21, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "dr.lancy.png",
+            "description":  "Dr Lancy  is a senior Nephrologist of repute of the city, commanding lot of respect from his patients and having 15 years of successful service record in this hospital. Dr. Rakesh yadav is a Medical Graduate - MBBS from Darbhanga Medical College, MD (Medicine) KGMC Lucknow and DM, Nephrology, IMS, B.H.U. His association with this Hospital has been remarkable for the development of Nephro and Dialysis Services."
+        },
+
+        {
+            "id": 11,
+            "doctorsCategory": "Chest & Respiratory Medicine (Lungs)",
+            "doctorsName": "Dr. Alok Maurya",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Feb 21, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "dr.alok.jpg",
+            "description":  "Dr Alok is a senior Nephrologist of repute of the city, commanding lot of respect from his patients and having 15 years of successful service record in this hospital. Dr. Rakesh yadav is a Medical Graduate - MBBS from Darbhanga Medical College, MD (Medicine) KGMC Lucknow and DM, Nephrology, IMS, B.H.U. His association with this Hospital has been remarkable for the development of Nephro and Dialysis Services."
+        },
+
+        {
+            "id": 12,
+            "doctorsCategory": " General Medicine",
+            "doctorsName": "Dr. Arti",
+            "timeAM": "Time(Morning): 09:00 AM - 02:00 PM",
+            "timePM": "Time(Evening): 03:00 PM - 06:00 PM",
+            "postedOn": "Jan 02, 2020",
+            "days": "Monday to Saturday",
+            "doctorsImage": "dr.arti.webp",
+            "description":  "Dr Arti has done his MBBS from SNMC Agra and MD (Internal Medicine) from LLRM Medical College, Meerut. After completing his Post Graduation he worked in Department of Medicine at ESIC Hospital & Post Graduate Institute, Basaidarapur, New Delhi. He is well known for his clinical skills & evidence based practice of medicine. He has done fellowship in Non-Invasive Cardiology (18 Months) from G.B. Pant Institute of Post Graduate Medical Education & Research, New Delhi & well trained in performing Non-Invasive Cardiology procedures – 2D Echo Cardiography, TMT, Holter Monitoring. Special Interest in – Diabetes / Hypertension / Lipid disorders / Thyroid disorders/ Infectious diseases."
+        }
+
+    ]
+}
